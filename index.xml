@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>tonic-2</repo>
-  <version>v1.0.1</version>
-  <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
+  <version>v1.0.2</version>
+  <next number="1" owner="stolbitsa" repo="du-hast"/>
   <readme>
-    <en>7c3c504f4c2b07f3e045acc210b3dc8926237b8fd2394008736f3d8418475e48</en>
     <ru>8471e5a06f91489d4aa24c548d92b79081ead896f2470230d838d679bc806e9a</ru>
+    <en>7c3c504f4c2b07f3e045acc210b3dc8926237b8fd2394008736f3d8418475e48</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>9</tonalities>
-    <video name="Sea3_0.mp4" size="1195025" type="video/mp4">888ad4a771a7a1c187f1b56f53bb73c249f6a370a150f21af51994c7e1650813</video>
+    <video name="Sea3_0.mp4" size="1195025" type="video/mp4" volume="1">888ad4a771a7a1c187f1b56f53bb73c249f6a370a150f21af51994c7e1650813</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="96" ppq="192" velocity="0.803"/>
       <note number="2" values="1,18" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -29,7 +29,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="S3-2_0.mp4" size="634475" type="video/mp4">8405518c0ed9c6c3cf3b4508c83b6d780c5e60505c32ab8cf162f89b390211e4</video>
+    <video name="S3-2_0.mp4" size="634475" type="video/mp4" volume="1">8405518c0ed9c6c3cf3b4508c83b6d780c5e60505c32ab8cf162f89b390211e4</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="96" ppq="192" velocity="0.803"/>
       <note number="2" values="1,18" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -44,7 +44,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="octaves1c.mp4" size="1082732" type="video/mp4">301dfe6e2b364860d033a37499fd4d5c1df14bd6ea425fb16fb90e446f30a484</video>
+    <video name="octaves1c.mp4" size="1082732" type="video/mp4" volume="1">301dfe6e2b364860d033a37499fd4d5c1df14bd6ea425fb16fb90e446f30a484</video>
     <notes>
       <note number="1" values="1,18" ticks="188" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="244" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -57,7 +57,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="octaves1c.mp4" size="1784672" type="video/mp4">0f3978fd36a73c43230c8e3700bca083a92e54516c69b3f0ecaf9fa0e1d0b010</video>
+    <video name="octaves1c.mp4" size="1784672" type="video/mp4" volume="1">0f3978fd36a73c43230c8e3700bca083a92e54516c69b3f0ecaf9fa0e1d0b010</video>
     <notes>
       <note number="1" values="1,18" ticks="380" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="436" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -70,7 +70,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="NewYork1.mp4" size="1514144" type="video/mp4">f7cd5e3d69276fbfcacaaceb0ca3c6b8ccb8ae8b6ff205d5509a5f334cfc4c3e</video>
+    <video name="NewYork1.mp4" size="1514144" type="video/mp4" volume="1">f7cd5e3d69276fbfcacaaceb0ca3c6b8ccb8ae8b6ff205d5509a5f334cfc4c3e</video>
     <notes>
       <note number="1" values="1,18" ticks="188" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="244" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -83,7 +83,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="S3-3_0.mp4" size="815450" type="video/mp4">df4055a9647c2a97d4c06bacf2caf438e42b80864af78dfbd38975ed3a380f24</video>
+    <video name="S3-3_0.mp4" size="815450" type="video/mp4" volume="1">df4055a9647c2a97d4c06bacf2caf438e42b80864af78dfbd38975ed3a380f24</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="96" ppq="192" velocity="0.803"/>
       <note number="2" values="1,18" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -99,7 +99,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Fireworks2_1.mp4" size="395626" type="video/mp4">7f947b2c8361b5957aa04c5840e1a7e037269e5cdb901da888176d73f0c933b5</video>
+    <video name="Fireworks2_1.mp4" size="395626" type="video/mp4" volume="1">7f947b2c8361b5957aa04c5840e1a7e037269e5cdb901da888176d73f0c933b5</video>
     <notes>
       <note number="1" values="1,18" ticks="188" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="244" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -112,7 +112,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="S3-4_0.mp4" size="508688" type="video/mp4">1cebc620ee43f1d48efc404a8657610891ee685426112c39137c85b7b42b7cfb</video>
+    <video name="S3-4_0.mp4" size="508688" type="video/mp4" volume="1">1cebc620ee43f1d48efc404a8657610891ee685426112c39137c85b7b42b7cfb</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="96" ppq="192" velocity="0.803"/>
       <note number="2" values="1,18" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -128,7 +128,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Fireworks2DM_1.mp4" size="402733" type="video/mp4">18f9ecfaf16bd444f9ea2e2d882bd97ea5619ec9b082b3bcd44a4b2111381a98</video>
+    <video name="Fireworks2DM_1.mp4" size="402733" type="video/mp4" volume="1">18f9ecfaf16bd444f9ea2e2d882bd97ea5619ec9b082b3bcd44a4b2111381a98</video>
     <notes>
       <note number="1" values="1,18" ticks="96" durationTicks="96" ppq="192" velocity="0.802"/>
       <note number="2" values="1,18" ticks="192" durationTicks="88" ppq="192" velocity="0.729"/>
@@ -143,7 +143,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Fireworks22_1.mp4" size="755290" type="video/mp4">42f3e9f5624cd3dba3151547ded2e7e4a108aa0ae22e868026c651d9017eb5cf</video>
+    <video name="Fireworks22_1.mp4" size="755290" type="video/mp4" volume="1">42f3e9f5624cd3dba3151547ded2e7e4a108aa0ae22e868026c651d9017eb5cf</video>
     <notes>
       <note number="1" values="1,18" ticks="188" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="244" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -156,7 +156,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="dance_1.mp4" size="1142227" type="video/mp4">9b96c6c4e1ff202d61af432264eb331c2fc6d2fc853e609843f9f5dfceaeeca3</video>
+    <video name="dance_1.mp4" size="1142227" type="video/mp4" volume="1">9b96c6c4e1ff202d61af432264eb331c2fc6d2fc853e609843f9f5dfceaeeca3</video>
     <notes>
       <note number="1" values="1,18" ticks="188" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="244" durationTicks="91" ppq="96" velocity="0.913"/>
