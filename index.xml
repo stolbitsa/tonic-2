@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>tonic-2</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="du-hast"/>
   <readme>
-    <ru>c17f796eb5b3fde86bfc9c3b714e0b590e7c589917377a6f28033bde350b00b0</ru>
-    <en>4b44da83cea7505e2d6dad60e993ef3cb6ff3285e55820a27e3337729bcdf021</en>
+    <ru>5797b1c18ab439dec05fa4ed593428c94af05f448d9c51155fc45f1faa608f64</ru>
+    <en>8c65717a94eef9274e7f2dae3429d52f7a82a266ca6add5f8984e3e266740869</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
